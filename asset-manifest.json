@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Piano-React/static/css/main.7dabf456.chunk.css",
+    "main.js": "/Piano-React/static/js/main.57d2868d.chunk.js",
+    "main.js.map": "/Piano-React/static/js/main.57d2868d.chunk.js.map",
+    "runtime-main.js": "/Piano-React/static/js/runtime-main.433594a3.js",
+    "runtime-main.js.map": "/Piano-React/static/js/runtime-main.433594a3.js.map",
+    "static/js/2.9315facd.chunk.js": "/Piano-React/static/js/2.9315facd.chunk.js",
+    "static/js/2.9315facd.chunk.js.map": "/Piano-React/static/js/2.9315facd.chunk.js.map",
+    "index.html": "/Piano-React/index.html",
+    "precache-manifest.037a7d365ac60a8986f8b17cf5d19043.js": "/Piano-React/precache-manifest.037a7d365ac60a8986f8b17cf5d19043.js",
+    "service-worker.js": "/Piano-React/service-worker.js",
+    "static/css/main.7dabf456.chunk.css.map": "/Piano-React/static/css/main.7dabf456.chunk.css.map",
+    "static/js/2.9315facd.chunk.js.LICENSE.txt": "/Piano-React/static/js/2.9315facd.chunk.js.LICENSE.txt",
+    "static/media/do.wav": "/Piano-React/static/media/do.18fd3f6f.wav",
+    "static/media/fa.wav": "/Piano-React/static/media/fa.a787534a.wav",
+    "static/media/la.wav": "/Piano-React/static/media/la.10af03f3.wav",
+    "static/media/mi.wav": "/Piano-React/static/media/mi.1f26c778.wav",
+    "static/media/re.wav": "/Piano-React/static/media/re.217b943a.wav",
+    "static/media/si.wav": "/Piano-React/static/media/si.70924435.wav",
+    "static/media/sol.wav": "/Piano-React/static/media/sol.785a33d2.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.433594a3.js",
+    "static/js/2.9315facd.chunk.js",
+    "static/css/main.7dabf456.chunk.css",
+    "static/js/main.57d2868d.chunk.js"
+  ]
+}
